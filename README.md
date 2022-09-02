@@ -17,7 +17,8 @@ the following:
 4. Click **Generate new token**
 Note: **GitHub Packages ReadOnly**
 Expiration: **30 days**
-<img src='./images/github-personal-access-token-packages.png' height=500 />
+<img width="686" alt="image" src="https://user-images.githubusercontent.com/5088893/188147183-4230238d-4108-45e4-832c-10c74cf41f42.png">
+
 5. Click save and copy your new token
 
 ## Store Personal Token
