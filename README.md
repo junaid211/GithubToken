@@ -10,7 +10,8 @@ the following:
 
 1. Log into GitHub
 2. In the top right corner click your profile photo and select **Settings**
-<img src='./images/github-user-settings.png' height=400 />
+<img width="250" alt="image" src="https://user-images.githubusercontent.com/5088893/188146247-0b0ac2e6-65f9-4fca-8119-b86aa5e86996.png">
+
 
 3. From the side panel select **Developer settings > Personal access tokens** near the bottom.
 4. Click **Generate new token**
